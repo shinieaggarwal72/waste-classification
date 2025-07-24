@@ -39,7 +39,7 @@ The YOLOv8 model was fine-tuned using the TACO dataset with help from [RoboFlow]
 #### 1. Clone the repo:
   ```bash
   git clone https://github.com/shinieaggarwal72/waste-classification.git
-  cd real-time-trash-classification
+  cd waste-classification
   ```
 
 #### 2. Install dependencies
