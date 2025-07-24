@@ -1,4 +1,9 @@
 # Real-Time Trash Classification App
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Model](https://img.shields.io/badge/model-YOLOv8-blue)
+![mAP@0.5](https://img.shields.io/badge/mAP@0.5-85.2%25-success)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 A web-based app that uses a fine-tuned YOLOv8 object detection model to classify waste into **recyclable** and **non-recyclable** categories in real-time from a webcam or uploaded images.
 
